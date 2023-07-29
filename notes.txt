@@ -1,0 +1,9 @@
+Ideas:
+
+Music, balls trigger notes on a grid as the move around (X could be note, y could be velocity)
+
+
+Behavior effected by local weather?
+
+Background image, that changes dynamically base on location and weather
+
